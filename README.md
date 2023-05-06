@@ -37,4 +37,4 @@ Matplotlib
 This project is open source and available under the MIT License.
 
 # Contact
-If you have any questions or suggestions, feel free to reach out or open an issue on GitHub.
+If you have any questions or suggestions, please feel free to reach out or open an issue on GitHub.
